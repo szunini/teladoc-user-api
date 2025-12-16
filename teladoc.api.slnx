@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+  <Project Path="teladoc.dao/teladoc.dao.csproj" />
+  <Project Path="teladoc.domain/teladoc.domain.csproj" Id="de4c4a04-67d1-45fd-93d2-0e326da779d5" />
+  <Project Path="teladoc.infraestructure/teladoc.infraestructure.csproj" />
+  <Project Path="teladoc.api/teladoc.api.csproj" />
+  <Project Path="teladoc.unit.test/teladoc.unit.test.csproj" />
+</Solution>
