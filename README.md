@@ -25,10 +25,10 @@ A quick look at what you'll find:
 
 Make sure you have installed:
 
-- **Docker** (optional, for running in containers)
+- **Docker** ( for running in containers)
 - **.NET 10 SDK**
-- **SQL Server** (local or in a container)
-- **Redis** (local or in a container)
+- **SQL Server** ( in a container)
+- **Redis** (in a container)
 
 ---
 
