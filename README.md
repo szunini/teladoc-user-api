@@ -84,7 +84,6 @@ dotnet test
 - Implement authentication and authorization.
 - Improve test coverage.
 - Add Health Checks for external dependencies.
-- Deploy to the cloud (Azure, AWS, etc).
 
 ---
 
