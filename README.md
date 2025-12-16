@@ -1,5 +1,5 @@
 # teladoc-user-api
-RESTful API coding exercise for Teladoc – Senior Software Engineer
+RESTful API coding exercise for Teladoc 
 =======
 # Teladoc.Api
 
@@ -53,7 +53,7 @@ docker-compose up --build
 ```json
 {
   "firstName": "Juan",
-  "lastName": "P�rez",
+  "lastName": "Pérez",
   "email": "juan.perez@example.com",
   "dateOfBirth": "1990-05-15",
   "nickName": "JP",
